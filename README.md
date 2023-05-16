@@ -2,6 +2,8 @@
 
 This WeeChat script fetches YouTube video information from URLs shared in a channel and posts the extracted details back to the channel. It utilizes the YouTube Data API to retrieve video information, ensuring accurate and reliable data extraction.
 
+This project is intended to be a continuation of my deprecated repository, [weechat.youtube-info](https://github.com/apple-fritter/weechat.youtube-info).
+
 ## Requirements
 
 - Python (2.7+ or 3.x)
